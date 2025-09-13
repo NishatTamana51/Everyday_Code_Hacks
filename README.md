@@ -1,1 +1,1 @@
-This Repository cpntains codes that you will need to automate some tasks and make your life easier.
+This Repository contains codes that you will need to automate some tasks and make your life easier.
